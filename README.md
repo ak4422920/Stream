@@ -10,6 +10,13 @@
 
 <details><summary>Tap On Me For Bot Features</summary>
 
+Code 1:-
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
+
+Code 2:-
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
 - Shortner On/Off feature.
 - Superfast download and stream links.
 - No ads in generated links.
