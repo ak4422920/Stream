@@ -4,6 +4,9 @@
 
 <p align="center">🩷 Thanks for Being Here 🩷</p>
 
+Code 1:-
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?...)
 
 
 ### 🥰 FEATURES
